@@ -1,6 +1,6 @@
 # Fediverse Infosec Seed File
 
-Did you just join an instance on the [fediverse](https://fedi.tips)? Are you interested in Information Security and looking for additional people to follow? This file will get you started. It lists a lot of folks who are well-known in the #infosec community who have public profiles. The goal of this file is to give you a way, in a handful of clicks, to follow a whole bunch of useful people and get your timeline flowing with some infosec goodness.
+Did you just join an instance on the [fediverse](https://fedi.tips)? Are you interested in Information Security and looking for some people on the fediverse to follow? This file will get you started. It lists a lot of folks who are well-known in the #infosec community who have public profiles. The goal of this file is to give you a way, in a handful of clicks, to follow a whole bunch of useful people and get your timeline flowing with some of that tasty infosec goodness. I call it a "seed" file because it gets your mastodon profile seeded. You still need to tend your follow list and make it grow.
 
 ## How to use this file
 
@@ -27,18 +27,25 @@ They're just people I know of. People on this list are not being endorsed in any
 
 ### I am on the list and I want to get off the list!
 
-I'm really sorry. I definitely didn't mean to get you unwanted attention. Just [send me a message](https://infosec.exchange/@paco) via Mastodon and I'll remove you from the list.
+I'm really sorry. I definitely didn't intend any harm. Just [send me a message](https://infosec.exchange/@paco) via Mastodon and I'll remove you from the list.
 
 ### I am not on the list and I want to get on the list!
 ### You left out so-and-so and they should totally be on this list!
 
-I'm happy to take pull requests to this repo. Add some names to the list, submit a pull request via github. Do not contact me with a handle and say "add this person." In the interest of "PoC||STFU" I say "PR||STFU".
+I'm happy to take pull requests to this repo. Add some names to the list, submit a pull request via github. Do not contact me with a handle and say "add this person." In the spirit of "PoC||GTFO" I say "PR||GTFO".
 
 I currently have 2 rules for inclusion on this list:
-* The person should be tooting about infosec already (i.e., not someone who is new to the scene or new to mastodon who wants followers)
+* The person should be tooting about infosec already. This is not a way for someone who is new to infosec to get new followers. This is how people who are new to the `#fediverse` find established infosec voices on it.
 * I don't accept self-nominations. If this is a person who others should follow, then someone other than the person should nominate them
+  * Talk to them and make sure they're OK with being included
+  * In the spirit of `#sharethemic` I would love to help infosec voices from underrepresented groups get some amplification. If we need additional seed files for those sorts of people, I'm happy to host it in this repo, or someone can fork/own that separately.
 
 ### Who made you king of Infosec? Why do you get to make the list and the rules?
 
 Nobody made me king and I don't make rules for anyone but myself. This list exists to the extent that it helps people. And if it doesn't help people, we can trash it and put it away. Don't like how I do this? Fork it and do your own. Don't even want to fork it? Fine, use the knowledge you've gained here and go on to do bigger better things your own way.
 
+### I want lots of followers! How do I do that if I can't get on this list!?
+
+Toot some good infosec content. The followers will come. Join a good Infosec-oriented Mastodon instance like [infosec.exchange](https://infosec.exchange/) or [ioc.exchange](https://ioc.exchange/) and watch the local timelines. If you join one of those and toot valuable content, people will see it.
+
+Followers don't work on the fediverse like they did in other places. Don't get too fixated on how many you have. It's different here.
