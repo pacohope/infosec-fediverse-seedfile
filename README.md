@@ -6,10 +6,11 @@ Did you just join an instance on the [fediverse](https://fedi.tips)? Are you int
 
 This is a simple comma-separated values file (CSV) that lists users one per line.
 1. Download the infosec-fediverse.csv file from this repository
-2. Select to your Profile in the web browser. I.e., visit your Mastodon instance, click on yourself. 
+2. Select to your Profile in the web browser. I.e., visit your Mastodon instance, click on yourself. ![Your Profile](/img/profile-pic.png?raw=true "Your Profile Picture")
 3. Select Preferences (see screenshot below)
 4. Select Import/Export and look for the Import option
-5. Click on "Browse..." and select the `infosec-fediverse.csv` file that you downloaded
+5. Click on "Browse..." and select the `infosec-fediverse.csv` file that you downloaded ![Import Followers](/img/import-followers.png?raw=true "Import Followers")
+6. Make sure **Merge** is selected, unless you really want to get rid of everyone you're currently following. 
 6. Select 'Upload'
 
 That's it. Your account will follow all the people in this file. You can obviously (a) edit the file before you do this, if there's someone in there you don't want to follow, or (b) visit your followers list later and unfollow someone.
