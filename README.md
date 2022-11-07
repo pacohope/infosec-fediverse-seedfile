@@ -5,7 +5,7 @@ Did you just join an instance on the [fediverse](https://fedi.tips)? Are you int
 ## How to use this file
 
 This is a simple comma-separated values file (CSV) that lists users one per line.
-1. Download the infosec-fediverse.csv file from this repository
+1. Download the [infosec-seedfile.csv file](https://raw.githubusercontent.com/pacohope/infosec-fediverse-seedfile/main/infosec-seedfile.csv) from this repository
 2. Select to your Profile in the web browser. I.e., visit your Mastodon instance, click on yourself. ![Your Profile](/img/profile-pic.png?raw=true "Your Profile Picture")
 3. Select Preferences (see screenshot below)
 4. Select Import/Export and look for the Import option
