@@ -32,12 +32,10 @@ I'm really sorry. I definitely didn't intend any harm. Just [send me a message](
 ### I am not on the list and I want to get on the list!
 ### You left out so-and-so and they should totally be on this list!
 
-I'm happy to take pull requests to this repo. Add some names to the list, submit a pull request via github. Do not contact me with a handle and say "add this person." In the spirit of "PoC||GTFO" I say "PR||GTFO".
-
-I currently have 2 rules for inclusion on this list:
-* The person should be tooting about infosec already. This is not a way for someone who is new to infosec to get new followers. This is how people who are new to the `#fediverse` find established infosec voices on it.
+Tell me about them! I want to include them. You can DM me on Mastodon or cut a pull request to the repo. I currently have 2 rules for inclusion on this list:
+* The person should be established in InfoSec. This is how people who are new to the `#fediverse` find established infosec voices on it.
 * I don't accept self-nominations. If this is a person who others should follow, then someone other than the person should nominate them
-  * Talk to them and make sure they're OK with being included
+  * Check to make sure they're OK with being included
   * In the spirit of `#sharethemic` I would love to help infosec voices from underrepresented groups get some amplification. If we need additional seed files for those sorts of people, I'm happy to host it in this repo, or someone can fork/own that separately.
 
 ### Who made you king of Infosec? Why do you get to make the list and the rules?
